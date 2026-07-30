@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://github.com/bronsonskinner/automated-thermal-characterization-platform/blob/main/images/engineering-portfolio-banner.png?raw=true" alt="Bronson Skinner Engineering Portfolio Banner" width="100%">
+</p>
+
+# Bronson Skinner
+
+## Controls Engineering | Industrial Automation | Systems Integration | Embedded Systems
+
+*Building practical engineering solutions through disciplined experimentation, technical documentation, and continuous professional development.*
+
+Welcome to my engineering portfolio.
+
+I am an early-career engineering professional building a long-term career in controls engineering, industrial automation, systems integration, commissioning, and advanced manufacturing. My interest lies in understanding how complex industrial systems operate and developing practical engineering solutions that improve their reliability, performance, and safety.
+
+This GitHub profile documents that journey. Every project represents an opportunity to strengthen technical knowledge through disciplined experimentation, structured documentation, analytical problem solving, and continuous improvement. As my engineering experience grows, this portfolio will continue expanding to include increasingly sophisticated projects involving industrial automation, embedded systems, industrial networking, operational technology, and electrical power systems.
+
+---
+
 # Bronson Skinner
 
 ## Controls Engineering | Industrial Automation | Systems Integration | Embedded Systems
