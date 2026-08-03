@@ -54,7 +54,7 @@ My current technical interests include controls engineering, industrial automati
 
 # Certifications
 
-My completed professional development includes Ignition Core Training, Cisco Networking Basics, Codefinity Python Essentials, OSHA 10-Hour Construction, Texas DPS Level II Non-Commissioned Security Officer, Texas DPS Level III Commissioned Security Officer, CPR / AED / First Aid, FEMA IS-100, FEMA IS-200, FEMA IS-242, FEMA IS-700, FEMA IS-800, FEMA IS-860, FEMA IS-907, and SAMHSA Crisis Intervention & De-escalation. As additional certifications are completed, they will be incorporated into this portfolio to document continued professional growth.
+My completed professional development includes Ignition Core Training, Cisco Networking Basics, Codefinity Python Essentials, OSHA 10-Hour Construction, Texas DPS Level II, Texas DPS Level III Commissioned, CPR / AED / First Aid, FEMA IS-100, FEMA IS-200, FEMA IS-242, FEMA IS-700, FEMA IS-800, FEMA IS-860, FEMA IS-907, and SAMHSA Crisis Intervention & De-escalation. As additional certifications are completed, they will be incorporated into this portfolio to document continued professional growth.
 
 ---
 
